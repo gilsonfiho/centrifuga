@@ -53,21 +53,10 @@ Criar uma centrífuga funcional utilizando componentes acessíveis, permitindo:
 
 ---
 
-## 📸 Imagens do Projeto (em breve)
-
-> Aqui você pode adicionar fotos ou vídeos demonstrando o protótipo real.
->
-> **Sugestão:**
-> ```
-> ![Protótipo da centrífuga](imagens/prototipo.jpg)
-> ```
-
----
-
 ## 👨‍💻 Contribuidores
 
-- [Gilson Filho](https://github.com/gilsonfiho) — Desenvolvimento do sistema, código e documentação
-- José Wilson — Integração com hardware, testes e estrutura física
+- Gilson Filho
+- José Wilson
 
 ---
 
